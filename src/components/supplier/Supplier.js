@@ -16,22 +16,22 @@ const Supplier = () => {
         <div className='flex justify-between mt-24'>
            <div>
             <picture>
-                <img src="images/supplier1.jpg" loading='lazy' />
+                <img src="images/supplier1.jpg" loading='lazy' alt='supplier' />
             </picture> 
            </div>
            <div>
             <picture>
-                <img src="images/supplier2.jpg" loading='lazy' />
+                <img src="images/supplier2.jpg" loading='lazy' alt='supplier'/>
             </picture> 
            </div>
            <div>
             <picture>
-                <img src="images/supplier3.jpg" loading='lazy' />
+                <img src="images/supplier3.jpg" loading='lazy' alt='supplier'/>
             </picture> 
            </div>
            <div>
             <picture>
-                <img src="images/supplier4.jpg" loading='lazy' />
+                <img src="images/supplier4.jpg" loading='lazy' alt='supplier'/>
             </picture> 
            </div>
         </div>

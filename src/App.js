@@ -6,6 +6,9 @@ import Supplier from './components/supplier/Supplier';
 import Services from './components/services/Services';
 import Company from './components/company/Company';
 import PartnerLogo from './components/partnerLogo/PartnerLogo';
+import Blog from './components/blog/Blog';
+import Maps from './components/maps/Maps';
+import Contact from './components/contact/Contact';
 
 function App() {
   return (
@@ -17,6 +20,9 @@ function App() {
      <Services/>
      <Company/>
      <PartnerLogo/>
+     <Blog/>
+     <Maps/>
+     <Contact/>
     </>
   );
 }

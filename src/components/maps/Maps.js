@@ -5,7 +5,7 @@ const Maps = () => {
     <section>
        <div>
           <picture>
-            <img src="images/maps.png" alt="" />
+            <img className='w-full' src="images/maps.png" loading='lazy' alt='supplier'/>
           </picture>
        </div>
     </section>

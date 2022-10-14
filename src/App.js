@@ -9,6 +9,7 @@ import PartnerLogo from './components/partnerLogo/PartnerLogo';
 import Blog from './components/blog/Blog';
 import Maps from './components/maps/Maps';
 import Contact from './components/contact/Contact';
+import Footer from './components/footer/Footer';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
      <Blog/>
      <Maps/>
      <Contact/>
+     <Footer/>
     </>
   );
 }

@@ -4,8 +4,8 @@ const PartnerLogo = () => {
   return (
     <section>
         <div className='max-w-container mx-auto py-28'>
-            <div className='flex justify-between'>
-                <div>
+            <div className='flex justify-center flex-wrap md:justify-between'>
+                <div className=''>
                     <picture>
                         <img src="images/logo1.png" alt="partnerLogo" />
                     </picture>

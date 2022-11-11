@@ -11,7 +11,7 @@ const Header = () => {
             <div className='sml:w-9/12 sml:flex'>
                 <p className='font-pops font-normal text-white relative pl-6
                 after:absolute after:top-0 after:right-[-28px] after:w-px after:h-full after:content-[" "]
-                after:bg-yellowborder'>
+                after:bg-yellowborder after:hidden sml:after:block'>
                 <AiOutlineMail className='absolute left-0 top-1 text-lg'/>
                 mail@yourcompany.com
                 </p>
